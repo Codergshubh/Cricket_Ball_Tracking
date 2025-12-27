@@ -74,7 +74,7 @@ EdgeFleet\_Project/
 
 │   ├── test/
 
-│   └── kaggle\_source\_screenshots/
+│   └── kaggle\_source            # Screenshot of dataset
 
 │
 
@@ -339,4 +339,5 @@ yolo\_robust\_model/ contains training evidence, not runtime code
 
 
 models/final.pt is the only model used during inference
+
 
