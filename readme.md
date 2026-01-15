@@ -2,10 +2,6 @@
 
 
 
-EdgeFleet.ai – AI/ML Engineering Assessment
-
-
-
 📌 **Problem Statement**
 
 
@@ -52,7 +48,7 @@ CPU-friendly, deployment-ready pipeline
 
 📂 **Repository Structure**
 
-EdgeFleet\_Project/
+Pro/Project
 
 │
 
@@ -339,5 +335,6 @@ yolo\_robust\_model/ contains training evidence, not runtime code
 
 
 models/final.pt is the only model used during inference
+
 
 
